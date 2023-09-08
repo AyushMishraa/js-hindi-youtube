@@ -27,7 +27,7 @@ let myObj = {
     name: "hitesh",
     age: 22,
 }
-
+// objects are with curly braces {}
 const myFunction = function(){
     console.log("Hello world");
 }
